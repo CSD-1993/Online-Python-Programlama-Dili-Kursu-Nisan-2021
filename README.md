@@ -9,7 +9,7 @@
 + Kursun toplam ücreti __2.600 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __2.300__ TL'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Python-Programlama-Dili-Kursu/blob/master/kursun_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Python-Programlama-Dili-Kursu/blob/master/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/ONLINE-Python-Programlama-Dili-Kursu/blob/master/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-Nisan-2021/blob/master/kursun_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-Nisan-2021/blob/master/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-Nisan-2021/blob/master/sss.md)
 + [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZElc-CgrD0qGNO4rvChzNApOgqdwGHl8fm9) 
